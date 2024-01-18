@@ -72,7 +72,7 @@ class NewUser:
 
 # User.check_benefit()
 
-# User.check_plan("Shandy")
+# User.check_plan(data["Shandy"])
 
 # User.upgrade_plan("Cahya","Standard Plan","Premium Plan")
 
